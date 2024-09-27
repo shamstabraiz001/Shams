@@ -1,0 +1,11 @@
+.intro {
+	width: 100%;
+	background: lightseagreen;
+}
+.attri {
+	width: 100%;
+	background: lightblue;
+	font-weight: bold;
+	font-size: 25px;
+	color: darkgray;
+}
